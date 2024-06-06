@@ -33,7 +33,6 @@ As far as thou art, as ock the father; and
 Insulting discontented suns be silver:
 The present you have said you will be lacked
 From all the rest o' the middle again
-Process finished with exit code 0
 ```
 ## 参考
 https://github.com/iVishalr/GPT   
